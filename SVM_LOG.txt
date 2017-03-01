@@ -1,0 +1,276 @@
+Test Data 31, Initial label 0, Extimated label 1.
+Test Data 32, Initial label 0, Extimated label 1.
+Test Data 37, Initial label 0, Extimated label 1.
+Test Data 40, Initial label 1, Extimated label 0.
+Test Data 44, Initial label 1, Extimated label 0.
+Test Data 72, Initial label 0, Extimated label 1.
+Test Data 78, Initial label 0, Extimated label 1.
+Test Data 79, Initial label 0, Extimated label 1.
+Test Data 84, Initial label 0, Extimated label 1.
+Test Data 86, Initial label 0, Extimated label 1.
+Test Data 91, Initial label 0, Extimated label 1.
+Test Data 94, Initial label 0, Extimated label 1.
+Test Data 98, Initial label 0, Extimated label 1.
+Test Data 122, Initial label 1, Extimated label 0.
+Test Data 137, Initial label 0, Extimated label 1.
+Test Data 138, Initial label 0, Extimated label 1.
+Test Data 139, Initial label 0, Extimated label 1.
+Test Data 151, Initial label 0, Extimated label 1.
+Test Data 169, Initial label 0, Extimated label 1.
+Test Data 177, Initial label 0, Extimated label 1.
+Test Data 180, Initial label 0, Extimated label 1.
+Test Data 183, Initial label 0, Extimated label 1.
+Test Data 189, Initial label 0, Extimated label 1.
+Test Data 194, Initial label 0, Extimated label 1.
+Test Data 200, Initial label 0, Extimated label 1.
+Test Data 217, Initial label 0, Extimated label 1.
+Test Data 221, Initial label 0, Extimated label 1.
+Test Data 241, Initial label 0, Extimated label 1.
+Test Data 247, Initial label 0, Extimated label 1.
+Test Data 249, Initial label 0, Extimated label 1.
+Test Data 260, Initial label 0, Extimated label 1.
+Test Data 262, Initial label 0, Extimated label 1.
+Test Data 272, Initial label 0, Extimated label 1.
+Test Data 286, Initial label 0, Extimated label 1.
+Test Data 295, Initial label 0, Extimated label 1.
+Test Data 298, Initial label 0, Extimated label 1.
+Test Data 306, Initial label 0, Extimated label 1.
+Test Data 309, Initial label 0, Extimated label 1.
+Test Data 312, Initial label 0, Extimated label 1.
+Test Data 317, Initial label 0, Extimated label 1.
+Test Data 331, Initial label 0, Extimated label 1.
+Test Data 337, Initial label 0, Extimated label 1.
+Test Data 348, Initial label 0, Extimated label 1.
+Test Data 352, Initial label 0, Extimated label 1.
+Test Data 358, Initial label 0, Extimated label 1.
+Test Data 372, Initial label 0, Extimated label 1.
+Test Data 379, Initial label 0, Extimated label 1.
+Test Data 384, Initial label 0, Extimated label 1.
+Test Data 391, Initial label 0, Extimated label 1.
+Test Data 395, Initial label 0, Extimated label 1.
+Test Data 407, Initial label 0, Extimated label 1.
+Test Data 416, Initial label 0, Extimated label 1.
+Test Data 420, Initial label 0, Extimated label 1.
+Test Data 431, Initial label 0, Extimated label 1.
+Test Data 440, Initial label 0, Extimated label 1.
+Test Data 448, Initial label 1, Extimated label 0.
+Test Data 454, Initial label 1, Extimated label 0.
+Test Data 464, Initial label 0, Extimated label 1.
+Test Data 466, Initial label 1, Extimated label 0.
+Test Data 474, Initial label 0, Extimated label 1.
+Test Data 506, Initial label 0, Extimated label 1.
+Test Data 515, Initial label 0, Extimated label 1.
+Test Data 523, Initial label 0, Extimated label 1.
+Test Data 533, Initial label 0, Extimated label 1.
+Test Data 550, Initial label 0, Extimated label 1.
+Test Data 560, Initial label 1, Extimated label 0.
+Test Data 567, Initial label 0, Extimated label 1.
+Test Data 576, Initial label 0, Extimated label 1.
+Test Data 579, Initial label 1, Extimated label 0.
+Test Data 600, Initial label 0, Extimated label 1.
+Test Data 606, Initial label 0, Extimated label 1.
+Test Data 607, Initial label 0, Extimated label 1.
+Test Data 611, Initial label 0, Extimated label 1.
+Test Data 612, Initial label 0, Extimated label 1.
+Test Data 616, Initial label 1, Extimated label 0.
+Test Data 617, Initial label 1, Extimated label 0.
+Test Data 620, Initial label 0, Extimated label 1.
+Test Data 632, Initial label 0, Extimated label 1.
+Test Data 633, Initial label 0, Extimated label 1.
+Test Data 643, Initial label 0, Extimated label 1.
+Test Data 646, Initial label 0, Extimated label 1.
+Test Data 652, Initial label 0, Extimated label 1.
+Test Data 658, Initial label 0, Extimated label 1.
+Test Data 667, Initial label 0, Extimated label 1.
+Test Data 672, Initial label 0, Extimated label 1.
+Test Data 677, Initial label 0, Extimated label 1.
+Test Data 679, Initial label 0, Extimated label 1.
+Test Data 688, Initial label 0, Extimated label 1.
+Test Data 698, Initial label 0, Extimated label 1.
+Test Data 699, Initial label 0, Extimated label 1.
+Test Data 705, Initial label 0, Extimated label 1.
+Test Data 709, Initial label 0, Extimated label 1.
+Test Data 731, Initial label 1, Extimated label 0.
+Test Data 737, Initial label 0, Extimated label 1.
+Test Data 746, Initial label 0, Extimated label 1.
+Test Data 753, Initial label 0, Extimated label 1.
+Test Data 762, Initial label 1, Extimated label 0.
+Test Data 766, Initial label 0, Extimated label 1.
+Test Data 769, Initial label 0, Extimated label 1.
+Test Data 771, Initial label 0, Extimated label 1.
+Test Data 772, Initial label 0, Extimated label 1.
+Test Data 779, Initial label 0, Extimated label 1.
+Test Data 784, Initial label 0, Extimated label 1.
+Test Data 785, Initial label 0, Extimated label 1.
+Test Data 789, Initial label 0, Extimated label 1.
+Test Data 798, Initial label 1, Extimated label 0.
+Test Data 807, Initial label 0, Extimated label 1.
+Test Data 809, Initial label 0, Extimated label 1.
+Test Data 811, Initial label 0, Extimated label 1.
+Test Data 823, Initial label 0, Extimated label 1.
+Test Data 826, Initial label 0, Extimated label 1.
+Test Data 829, Initial label 0, Extimated label 1.
+Test Data 830, Initial label 0, Extimated label 1.
+Test Data 842, Initial label 0, Extimated label 1.
+Test Data 847, Initial label 0, Extimated label 1.
+Test Data 850, Initial label 0, Extimated label 1.
+Test Data 851, Initial label 0, Extimated label 1.
+Test Data 854, Initial label 1, Extimated label 0.
+Test Data 861, Initial label 0, Extimated label 1.
+Test Data 862, Initial label 0, Extimated label 1.
+Test Data 864, Initial label 0, Extimated label 1.
+Test Data 866, Initial label 0, Extimated label 1.
+Test Data 869, Initial label 0, Extimated label 1.
+Test Data 875, Initial label 0, Extimated label 1.
+Test Data 876, Initial label 0, Extimated label 1.
+Test Data 878, Initial label 0, Extimated label 1.
+Test Data 879, Initial label 0, Extimated label 1.
+Test Data 884, Initial label 0, Extimated label 1.
+Test Data 891, Initial label 1, Extimated label 0.
+Test Data 897, Initial label 0, Extimated label 1.
+Test Data 910, Initial label 0, Extimated label 1.
+Test Data 915, Initial label 0, Extimated label 1.
+Test Data 927, Initial label 0, Extimated label 1.
+Test Data 942, Initial label 0, Extimated label 1.
+Test Data 963, Initial label 0, Extimated label 1.
+Test Data 966, Initial label 0, Extimated label 1.
+Test Data 969, Initial label 0, Extimated label 1.
+Test Data 970, Initial label 1, Extimated label 0.
+Test Data 973, Initial label 0, Extimated label 1.
+Test Data 978, Initial label 0, Extimated label 1.
+Test Data 999, Initial label 0, Extimated label 1.
+Test Data 1003, Initial label 0, Extimated label 1.
+Test Data 1021, Initial label 0, Extimated label 1.
+Test Data 1032, Initial label 0, Extimated label 1.
+Test Data 1039, Initial label 0, Extimated label 1.
+Test Data 1066, Initial label 0, Extimated label 1.
+Test Data 1069, Initial label 0, Extimated label 1.
+Test Data 1075, Initial label 0, Extimated label 1.
+Test Data 1076, Initial label 0, Extimated label 1.
+Test Data 1080, Initial label 0, Extimated label 1.
+Test Data 1091, Initial label 0, Extimated label 1.
+Test Data 1092, Initial label 0, Extimated label 1.
+Test Data 1125, Initial label 0, Extimated label 1.
+Test Data 1127, Initial label 0, Extimated label 1.
+Test Data 1130, Initial label 1, Extimated label 0.
+Test Data 1132, Initial label 0, Extimated label 1.
+Test Data 1133, Initial label 0, Extimated label 1.
+Test Data 1142, Initial label 0, Extimated label 1.
+Test Data 1145, Initial label 0, Extimated label 1.
+Test Data 1148, Initial label 0, Extimated label 1.
+Test Data 1164, Initial label 1, Extimated label 0.
+Test Data 1172, Initial label 0, Extimated label 1.
+Test Data 1173, Initial label 0, Extimated label 1.
+Test Data 1195, Initial label 0, Extimated label 1.
+Test Data 1196, Initial label 0, Extimated label 1.
+Test Data 1197, Initial label 0, Extimated label 1.
+Test Data 1199, Initial label 0, Extimated label 1.
+Test Data 1203, Initial label 0, Extimated label 1.
+Test Data 1212, Initial label 0, Extimated label 1.
+Test Data 1215, Initial label 0, Extimated label 1.
+Test Data 1221, Initial label 1, Extimated label 0.
+Test Data 1222, Initial label 0, Extimated label 1.
+Test Data 1231, Initial label 1, Extimated label 0.
+Test Data 1233, Initial label 0, Extimated label 1.
+Test Data 1243, Initial label 0, Extimated label 1.
+Test Data 1247, Initial label 0, Extimated label 1.
+Test Data 1251, Initial label 0, Extimated label 1.
+Test Data 1253, Initial label 0, Extimated label 1.
+Test Data 1255, Initial label 1, Extimated label 0.
+Test Data 1267, Initial label 0, Extimated label 1.
+Test Data 1270, Initial label 1, Extimated label 0.
+Test Data 1281, Initial label 0, Extimated label 1.
+Test Data 1284, Initial label 0, Extimated label 1.
+Test Data 1287, Initial label 0, Extimated label 1.
+Test Data 1289, Initial label 0, Extimated label 1.
+Test Data 1302, Initial label 0, Extimated label 1.
+Test Data 1305, Initial label 0, Extimated label 1.
+Test Data 1308, Initial label 0, Extimated label 1.
+Test Data 1310, Initial label 0, Extimated label 1.
+Test Data 1312, Initial label 1, Extimated label 0.
+Test Data 1316, Initial label 0, Extimated label 1.
+Test Data 1319, Initial label 0, Extimated label 1.
+Test Data 1320, Initial label 0, Extimated label 1.
+Test Data 1324, Initial label 0, Extimated label 1.
+Test Data 1328, Initial label 0, Extimated label 1.
+Test Data 1346, Initial label 0, Extimated label 1.
+Test Data 1355, Initial label 0, Extimated label 1.
+Test Data 1364, Initial label 0, Extimated label 1.
+Test Data 1386, Initial label 0, Extimated label 1.
+Test Data 1388, Initial label 0, Extimated label 1.
+Test Data 1389, Initial label 0, Extimated label 1.
+Test Data 1409, Initial label 0, Extimated label 1.
+Test Data 1410, Initial label 0, Extimated label 1.
+Test Data 1413, Initial label 0, Extimated label 1.
+Test Data 1417, Initial label 0, Extimated label 1.
+Test Data 1431, Initial label 0, Extimated label 1.
+Test Data 1433, Initial label 1, Extimated label 0.
+Test Data 1437, Initial label 0, Extimated label 1.
+Test Data 1439, Initial label 0, Extimated label 1.
+Test Data 1450, Initial label 1, Extimated label 0.
+Test Data 1456, Initial label 0, Extimated label 1.
+Test Data 1462, Initial label 0, Extimated label 1.
+Test Data 1466, Initial label 0, Extimated label 1.
+Test Data 1471, Initial label 0, Extimated label 1.
+Test Data 1497, Initial label 0, Extimated label 1.
+Test Data 1499, Initial label 0, Extimated label 1.
+Test Data 1520, Initial label 0, Extimated label 1.
+Test Data 1537, Initial label 0, Extimated label 1.
+Test Data 1556, Initial label 1, Extimated label 0.
+Test Data 1561, Initial label 0, Extimated label 1.
+Test Data 1568, Initial label 0, Extimated label 1.
+Test Data 1582, Initial label 0, Extimated label 1.
+Test Data 1598, Initial label 0, Extimated label 1.
+Test Data 1602, Initial label 0, Extimated label 1.
+Test Data 1610, Initial label 0, Extimated label 1.
+Test Data 1622, Initial label 0, Extimated label 1.
+Test Data 1623, Initial label 0, Extimated label 1.
+Test Data 1624, Initial label 0, Extimated label 1.
+Test Data 1635, Initial label 0, Extimated label 1.
+Test Data 1649, Initial label 0, Extimated label 1.
+Test Data 1651, Initial label 0, Extimated label 1.
+Test Data 1656, Initial label 1, Extimated label 0.
+Test Data 1658, Initial label 0, Extimated label 1.
+Test Data 1663, Initial label 0, Extimated label 1.
+Test Data 1666, Initial label 0, Extimated label 1.
+Test Data 1675, Initial label 0, Extimated label 1.
+Test Data 1679, Initial label 0, Extimated label 1.
+Test Data 1683, Initial label 0, Extimated label 1.
+Test Data 1693, Initial label 0, Extimated label 1.
+Test Data 1697, Initial label 0, Extimated label 1.
+Test Data 1698, Initial label 0, Extimated label 1.
+Test Data 1700, Initial label 0, Extimated label 1.
+Test Data 1704, Initial label 0, Extimated label 1.
+Test Data 1710, Initial label 0, Extimated label 1.
+Test Data 1720, Initial label 0, Extimated label 1.
+Test Data 1730, Initial label 1, Extimated label 0.
+Test Data 1731, Initial label 0, Extimated label 1.
+Test Data 1744, Initial label 0, Extimated label 1.
+Test Data 1753, Initial label 1, Extimated label 0.
+Test Data 1765, Initial label 0, Extimated label 1.
+Test Data 1775, Initial label 0, Extimated label 1.
+Test Data 1777, Initial label 1, Extimated label 0.
+Test Data 1806, Initial label 0, Extimated label 1.
+Test Data 1827, Initial label 1, Extimated label 0.
+Test Data 1840, Initial label 0, Extimated label 1.
+Test Data 1841, Initial label 0, Extimated label 1.
+Test Data 1843, Initial label 0, Extimated label 1.
+Test Data 1845, Initial label 0, Extimated label 1.
+Test Data 1861, Initial label 0, Extimated label 1.
+Test Data 1867, Initial label 1, Extimated label 0.
+Test Data 1868, Initial label 0, Extimated label 1.
+Test Data 1870, Initial label 1, Extimated label 0.
+Test Data 1871, Initial label 0, Extimated label 1.
+Test Data 1873, Initial label 0, Extimated label 1.
+Test Data 1879, Initial label 0, Extimated label 1.
+Test Data 1885, Initial label 0, Extimated label 1.
+Test Data 1903, Initial label 0, Extimated label 1.
+Test Data 1909, Initial label 1, Extimated label 0.
+Test Data 1911, Initial label 1, Extimated label 0.
+Test Data 1912, Initial label 0, Extimated label 1.
+Test Data 1915, Initial label 0, Extimated label 1.
+Test Data 1919, Initial label 0, Extimated label 1.
+Test Data 1975, Initial label 0, Extimated label 1.
+Test Data 1983, Initial label 0, Extimated label 1.
+Error percentage: 1.37000e-01
+
